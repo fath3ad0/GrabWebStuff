@@ -161,7 +161,6 @@ def main():
 	hostname=url.hostname
 
 	loop_other_pages(url.geturl())
-	select_all_from_table(url.geturl())
  	 
 
 main()
